@@ -1998,6 +1998,12 @@ body {
 .cid-qRpcVY4H6W .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qRpcVY4H6W P {
+  text-align: left;
+}
+.cid-qRpcVY4H6W H2 {
+  text-align: left;
+}
 .cid-qRpcCbSmUY {
   padding-top: 60px;
   padding-bottom: 60px;
