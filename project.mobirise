@@ -742,7 +742,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Conheça os benefícios na operação com sistemas de climatização locados, seja para eventos ou <br>para manter a alta disponibilidade no seu processo produtivo.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Saiba Mais</a> ",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#333333"
               },
